@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Monique's bakery</title>
+    </head>
+    <body>
+                <table>
+            <th style = " background-color:darkolivegreen center;font-size: 50px;font-family: milea serif DEMO;">
+                <tr>
+                    <td>
+                        <a style=" color: mediumseagreen;" href="home.html">
+                            Home
+                        </a>
+                    </td>
+                    <td>
+                        <a style="color: mediumseagreen;" href="menu.html">
+                            Menu
+                        </a>
+                    </td>
+                    <td>
+                        <a style = "color: mediumseagreen;" href="About_us.html">
+                            About_us
+                        </a>
+                    </td>
+                    <td>
+                        <a style = "color: mediumseagreen;" href="comtacts.html">
+                            Contacts</a>
+                    </td>
+                
+
+                </tr>
+            </th>
+        </table> 
+<h1 Style="text-allign:center;"><u>About us</u></h1>
+<h5><b>The bakery</b>
+</h5>
+<table>
+<th>
+<tr>
+<td>
+<Img src="" style="Width:300px; height: 300px;"></img>
+</td>
+<td>
+<p>
+Monique's bakery is a French theme bakery that allows people to taste and try French pastry and to appreciate the traditional greatest of French pastry.
+</p>
+</td>
+</tr>
+</th>
+</table>
+<h5>
+<b>Origins of Owner</b>
+</h5>
+<table>
+<th>
+<tr>
+<td>
+<p>Monique Laurent is a half French and Half Filipino but she grew up in the heart of France which is Paris and later in life she moved out and lived in the Philippines on Metro Manila and open up a French theme bakery dedicated to her home origin.
+</p>
+</td>
+<td>
+<Img src="" style="Width:300px; height: 300px;"></img>
+</td>
+</tr>
+</th>
+</table>
+ 
+  </body>
+</html>
+        
